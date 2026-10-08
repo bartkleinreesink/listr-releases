@@ -1,10 +1,15 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.9/listr-1.9.apk",
-  "sha256": "1f883d324167e3c6321834388277025c145295d1a0b0f26dbd1944329f9a5534",
-  "notes": "Nieuw: huishoudens. Maak een huishouden via het menu en nodig je gezin uit; iedereen ziet dan alle lijsten van het huishouden. Verder een nieuw app-icoon en algemenere teksten bij het delen.\n\nMet dank aan Bart voor de feedback.",
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.10/listr-1.10.apk",
+  "sha256": "0b6dd6fa80ca5e10bf1a5bd737f84e8c22127453e164111ac3f8e353691ade1b",
+  "notes": "Nieuw: wensenlijsten. Kies bij een nieuwe lijst voor Wensenlijst en voeg wensen toe met een link; je ziet dan een productplaatje. Je kunt ook vanuit je browser een link delen naar Listr.\n\nMet dank aan Bart voor de feedback.",
   "changelog": [
+    {
+      "versionCode": 11,
+      "versionName": "1.10",
+      "notes": "Nieuw: wensenlijsten. Kies bij een nieuwe lijst voor Wensenlijst en voeg wensen toe met een link; je ziet dan een productplaatje. Je kunt ook vanuit je browser een link delen naar Listr.\n\nMet dank aan Bart voor de feedback."
+    },
     {
       "versionCode": 10,
       "versionName": "1.9",
