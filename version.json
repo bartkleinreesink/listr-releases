@@ -1,10 +1,15 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.8/listr-1.8.apk",
-  "sha256": "e2181caa91fc4cfd2b1088121a309cfafdffbeb265faa77fdcded70e7dac4706",
-  "notes": "Feedback zonder actiepunt, zoals een compliment, krijgt nu de status Gelezen.",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.9/listr-1.9.apk",
+  "sha256": "1f883d324167e3c6321834388277025c145295d1a0b0f26dbd1944329f9a5534",
+  "notes": "Nieuw: huishoudens. Maak een huishouden via het menu en nodig je gezin uit; iedereen ziet dan alle lijsten van het huishouden. Verder een nieuw app-icoon en algemenere teksten bij het delen.\n\nMet dank aan Bart voor de feedback.",
   "changelog": [
+    {
+      "versionCode": 10,
+      "versionName": "1.9",
+      "notes": "Nieuw: huishoudens. Maak een huishouden via het menu en nodig je gezin uit; iedereen ziet dan alle lijsten van het huishouden. Verder een nieuw app-icoon en algemenere teksten bij het delen.\n\nMet dank aan Bart voor de feedback."
+    },
     {
       "versionCode": 9,
       "versionName": "1.8",
