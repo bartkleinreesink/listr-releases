@@ -1,6 +1,6 @@
-# Boodschappen – releases
+# Listr – releases
 
-Releases van de Boodschappen-app (Android). De app controleert zelf op updates via
+Releases van de app Listr (Android). De app controleert zelf op updates via
 [`version.json`](version.json) en installeert nieuwe versies vanaf de
 [releases](../../releases).
 
