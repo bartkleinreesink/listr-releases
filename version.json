@@ -3,5 +3,22 @@
   "versionName": "1.2",
   "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.2/listr-1.2.apk",
   "sha256": "72009c41ad690c32d296e57b04c7a03a1de7e5326f0e7fab3ed3800b3ffc05c3",
-  "notes": "De app heet nu Listr. Nieuw: items verslepen (lang indrukken), lijsten hernoemen en deelnemers bekijken. Verbeterd: donker thema en het app-icoon."
+  "notes": "De app heet nu Listr. Nieuw: items verslepen (lang indrukken), lijsten hernoemen en deelnemers bekijken. Verbeterd: donker thema en het app-icoon.",
+  "changelog": [
+    {
+      "versionCode": 3,
+      "versionName": "1.2",
+      "notes": "De app heet nu Listr. Nieuw: items verslepen (lang indrukken), lijsten hernoemen en deelnemers bekijken. Verbeterd: donker thema en het app-icoon."
+    },
+    {
+      "versionCode": 2,
+      "versionName": "1.1",
+      "notes": "Test van de ingebouwde updater."
+    },
+    {
+      "versionCode": 1,
+      "versionName": "1.0",
+      "notes": "Eerste versie van Boodschappen."
+    }
+  ]
 }
