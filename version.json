@@ -1,10 +1,15 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.6/listr-1.6.apk",
-  "sha256": "32739e725e01d1b0d825bfc7d8fd7c82f97e6ea3f17f730318ee5c6c94c028b2",
-  "notes": "Nieuw: Controleren op updates in het menu. Nieuwe versies zijn voortaan direct zichtbaar.",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.7/listr-1.7.apk",
+  "sha256": "4111d9fdcd45462fd16ff6096bc31c60c2070ec1036c64b34c18f073f7d70952",
+  "notes": "Nieuw: onder Feedback in het menu zie je je eigen feedback en wat ermee gebeurt. Wie feedback geeft, wordt bedankt in de lijst met wijzigingen.",
   "changelog": [
+    {
+      "versionCode": 8,
+      "versionName": "1.7",
+      "notes": "Nieuw: onder Feedback in het menu zie je je eigen feedback en wat ermee gebeurt. Wie feedback geeft, wordt bedankt in de lijst met wijzigingen."
+    },
     {
       "versionCode": 7,
       "versionName": "1.6",
