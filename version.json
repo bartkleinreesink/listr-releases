@@ -1,10 +1,15 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.2/listr-1.2.apk",
-  "sha256": "72009c41ad690c32d296e57b04c7a03a1de7e5326f0e7fab3ed3800b3ffc05c3",
-  "notes": "De app heet nu Listr. Nieuw: items verslepen (lang indrukken), lijsten hernoemen en deelnemers bekijken. Verbeterd: donker thema en het app-icoon.",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.3/listr-1.3.apk",
+  "sha256": "94fd6a36cc49046e4cdc127b189fa588e384895ed62cc2ef86c3c4b4d2193c7f",
+  "notes": "Bij een update zie je nu alle wijzigingen sinds je huidige versie.",
   "changelog": [
+    {
+      "versionCode": 4,
+      "versionName": "1.3",
+      "notes": "Bij een update zie je nu alle wijzigingen sinds je huidige versie."
+    },
     {
       "versionCode": 3,
       "versionName": "1.2",
