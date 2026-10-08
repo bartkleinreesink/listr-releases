@@ -1,10 +1,15 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.3/listr-1.3.apk",
-  "sha256": "94fd6a36cc49046e4cdc127b189fa588e384895ed62cc2ef86c3c4b4d2193c7f",
-  "notes": "Bij een update zie je nu alle wijzigingen sinds je huidige versie.",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.4/listr-1.4.apk",
+  "sha256": "089ad922577a7d4fa460ec862ecdfa90a66367325b7412a49268fdd51b86f65f",
+  "notes": "Nieuw: stel een standaardlijst in (menu in de lijst). Die opent direct als je de app start.",
   "changelog": [
+    {
+      "versionCode": 5,
+      "versionName": "1.4",
+      "notes": "Nieuw: stel een standaardlijst in (menu in de lijst). Die opent direct als je de app start."
+    },
     {
       "versionCode": 4,
       "versionName": "1.3",
