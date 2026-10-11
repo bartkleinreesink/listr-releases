@@ -1,10 +1,15 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.10/listr-1.10.apk",
-  "sha256": "0b6dd6fa80ca5e10bf1a5bd737f84e8c22127453e164111ac3f8e353691ade1b",
-  "notes": "Nieuw: wensenlijsten. Kies bij een nieuwe lijst voor Wensenlijst en voeg wensen toe met een link; je ziet dan een productplaatje. Je kunt ook vanuit je browser een link delen naar Listr.\n\nMet dank aan Bart voor de feedback.",
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.11/listr-1.11.apk",
+  "sha256": "7102b06a097e240a05273e77f54875e97feae90374b74df3a6ae613a433e458e",
+  "notes": "Nieuw: verzamellijsten. Elk item heeft een eigen lijst, bijvoorbeeld een recept met ingrediënten, en met één tik zet je die op je boodschappenlijst (wat er al op staat wordt overgeslagen). Wensenlijsten heten nu linklijsten.",
   "changelog": [
+    {
+      "versionCode": 12,
+      "versionName": "1.11",
+      "notes": "Nieuw: verzamellijsten. Elk item heeft een eigen lijst, bijvoorbeeld een recept met ingrediënten, en met één tik zet je die op je boodschappenlijst (wat er al op staat wordt overgeslagen). Wensenlijsten heten nu linklijsten."
+    },
     {
       "versionCode": 11,
       "versionName": "1.10",
