@@ -1,10 +1,15 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.12/listr-1.12.apk",
-  "sha256": "19dedad8ca1409bd4d1c2f5f29d9d432fdef088cb992574f446c777177b90afe",
-  "notes": "Nieuw: lijstinstellingen. Open het menu van een lijst en kies Instellingen. Daar geef je de lijst een eigen icoon (zichtbaar in het overzicht), kies je hoe items gesorteerd worden (handmatig, alfabetisch of nieuwste eerst), klap je afgevinkte items in en zet je meldingen voor die lijst aan of uit. Naam, soort en huishouden wijzig je nu ook daar.\n\nMet dank aan Bart voor de feedback.",
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.13/listr-1.13.apk",
+  "sha256": "552e495e2e413dbe361261d793b2ff0fc782130b8cf4127e8b68a2a5fe631fba",
+  "notes": "Verwijderd item per ongeluk? Na verwijderen zie je onderin een melding met \"Ongedaan maken\". In een verzamellijst vraagt de app eerst om bevestiging als het item een sublijst met items heeft.",
   "changelog": [
+    {
+      "versionCode": 14,
+      "versionName": "1.13",
+      "notes": "Verwijderd item per ongeluk? Na verwijderen zie je onderin een melding met \"Ongedaan maken\". In een verzamellijst vraagt de app eerst om bevestiging als het item een sublijst met items heeft."
+    },
     {
       "versionCode": 13,
       "versionName": "1.12",
