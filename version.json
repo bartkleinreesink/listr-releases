@@ -1,10 +1,15 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.11/listr-1.11.apk",
-  "sha256": "7102b06a097e240a05273e77f54875e97feae90374b74df3a6ae613a433e458e",
-  "notes": "Nieuw: verzamellijsten. Elk item heeft een eigen lijst, bijvoorbeeld een recept met ingrediënten, en met één tik zet je die op je boodschappenlijst (wat er al op staat wordt overgeslagen). Wensenlijsten heten nu linklijsten.",
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.12/listr-1.12.apk",
+  "sha256": "19dedad8ca1409bd4d1c2f5f29d9d432fdef088cb992574f446c777177b90afe",
+  "notes": "Nieuw: lijstinstellingen. Open het menu van een lijst en kies Instellingen. Daar geef je de lijst een eigen icoon (zichtbaar in het overzicht), kies je hoe items gesorteerd worden (handmatig, alfabetisch of nieuwste eerst), klap je afgevinkte items in en zet je meldingen voor die lijst aan of uit. Naam, soort en huishouden wijzig je nu ook daar.\n\nMet dank aan Bart voor de feedback.",
   "changelog": [
+    {
+      "versionCode": 13,
+      "versionName": "1.12",
+      "notes": "Nieuw: lijstinstellingen. Open het menu van een lijst en kies Instellingen. Daar geef je de lijst een eigen icoon (zichtbaar in het overzicht), kies je hoe items gesorteerd worden (handmatig, alfabetisch of nieuwste eerst), klap je afgevinkte items in en zet je meldingen voor die lijst aan of uit. Naam, soort en huishouden wijzig je nu ook daar.\n\nMet dank aan Bart voor de feedback."
+    },
     {
       "versionCode": 12,
       "versionName": "1.11",
