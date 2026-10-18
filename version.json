@@ -1,10 +1,15 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.13/listr-1.13.apk",
-  "sha256": "552e495e2e413dbe361261d793b2ff0fc782130b8cf4127e8b68a2a5fe631fba",
-  "notes": "Verwijderd item per ongeluk? Na verwijderen zie je onderin een melding met \"Ongedaan maken\". In een verzamellijst vraagt de app eerst om bevestiging als het item een sublijst met items heeft.",
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.14/listr-1.14.apk",
+  "sha256": "7521869175a21f934e2d06415900fc96449ff9a50a36120f08eebbb0babba228",
+  "notes": "Items wijzigen: tik op het potloodje naast een item om de naam of het aantal aan te passen. Verwijderen gaat nu door een item naar links te vegen (met \"Ongedaan maken\").\n\nNieuw: suggesties. Tijdens het typen zie je boven het invoerveld items die eerder op deze lijst stonden; tik erop om ze toe te voegen. Een afgevinkt item gaat dan weer open. Lang drukken haalt een suggestie weg.\n\nMet dank aan Bart voor de feedback.",
   "changelog": [
+    {
+      "versionCode": 15,
+      "versionName": "1.14",
+      "notes": "Items wijzigen: tik op het potloodje naast een item om de naam of het aantal aan te passen. Verwijderen gaat nu door een item naar links te vegen (met \"Ongedaan maken\").\n\nNieuw: suggesties. Tijdens het typen zie je boven het invoerveld items die eerder op deze lijst stonden; tik erop om ze toe te voegen. Een afgevinkt item gaat dan weer open. Lang drukken haalt een suggestie weg.\n\nMet dank aan Bart voor de feedback."
+    },
     {
       "versionCode": 14,
       "versionName": "1.13",
