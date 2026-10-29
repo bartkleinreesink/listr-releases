@@ -1,10 +1,15 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.14/listr-1.14.apk",
-  "sha256": "7521869175a21f934e2d06415900fc96449ff9a50a36120f08eebbb0babba228",
-  "notes": "Items wijzigen: tik op het potloodje naast een item om de naam of het aantal aan te passen. Verwijderen gaat nu door een item naar links te vegen (met \"Ongedaan maken\").\n\nNieuw: suggesties. Tijdens het typen zie je boven het invoerveld items die eerder op deze lijst stonden; tik erop om ze toe te voegen. Een afgevinkt item gaat dan weer open. Lang drukken haalt een suggestie weg.\n\nMet dank aan Bart voor de feedback.",
+  "versionCode": 16,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/bartkleinreesink/listr-releases/releases/download/v1.15/listr-1.15.apk",
+  "sha256": "70c3fcdf2765b5d13749ac4ea1b6a5915e43fb92c93d70cb7f2f8977f40a141e",
+  "notes": "Nieuw: logboek per lijst (menu > Logboek), sorteeroptie 'Slim' die onthoudt waar je items neerzet, en een syncstatus (wolkje) met vernieuwen door omlaag te trekken.\n\nMet dank aan Bart voor de feedback.",
   "changelog": [
+    {
+      "versionCode": 16,
+      "versionName": "1.15",
+      "notes": "Nieuw: logboek per lijst (menu > Logboek), sorteeroptie 'Slim' die onthoudt waar je items neerzet, en een syncstatus (wolkje) met vernieuwen door omlaag te trekken.\n\nMet dank aan Bart voor de feedback."
+    },
     {
       "versionCode": 15,
       "versionName": "1.14",
